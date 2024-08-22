@@ -50,7 +50,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/e1de82eb-bff8-4c27-9e02-db7c51214bd8)
 ![image](https://github.com/user-attachments/assets/ebc9b40f-f9f0-485f-a961-b728443e9039)
 
-![best fit line](sam.png)
 
 
 ## Result:
